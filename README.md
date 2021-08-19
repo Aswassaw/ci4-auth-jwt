@@ -1,5 +1,5 @@
 # CI4 Auth JWT
-Aplikasi Restful dengan CodeIgniter 4. Studi kasus auth dengan jwt.
+Aplikasi Restful dengan CodeIgniter 4. Studi kasus Authentication dan Authorization dengan JWT.
 
 ## Cara instalasi:
 - Clone repo ini.
